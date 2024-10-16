@@ -1,0 +1,44 @@
+@font-face {
+    font-family: '';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''), url('https://fonts.cdnfonts.com/s/107646/Mluvka-Regular-BF65518ac8463f5.woff') format('woff');
+}
+@font-face {
+    font-family: '';
+    font-style: normal;
+    font-weight: 200;
+    src: local(''), url('https://fonts.cdnfonts.com/s/107646/Mluvka-ExtraLight-BF65518ac7eb0fe.woff') format('woff');
+}
+@font-face {
+    font-family: '';
+    font-style: normal;
+    font-weight: 300;
+    src: local(''), url('https://fonts.cdnfonts.com/s/107646/Mluvka-Light-BF65518ac849790.woff') format('woff');
+}
+@font-face {
+    font-family: '';
+    font-style: normal;
+    font-weight: 500;
+    src: local(''), url('https://fonts.cdnfonts.com/s/107646/Mluvka-Medium-BF65518ac864edb.woff') format('woff');
+}
+@font-face {
+    font-family: '';
+    font-style: normal;
+    font-weight: 600;
+    src: local(''), url('https://fonts.cdnfonts.com/s/107646/Mluvka-SemiBold-BF65518ac864155.woff') format('woff');
+}
+@font-face {
+    font-family: '';
+    font-style: normal;
+    font-weight: 700;
+    src: local(''), url('https://fonts.cdnfonts.com/s/107646/Mluvka-Bold-BF65518ac8cff8c.woff') format('woff');
+}
+@font-face {
+    font-family: '';
+    font-style: normal;
+    font-weight: 800;
+    src: local(''), url('https://fonts.cdnfonts.com/s/107646/Mluvka-ExtraBold-BF65518ac86bc69.woff') format('woff');
+}
+
+
